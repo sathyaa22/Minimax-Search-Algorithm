@@ -274,8 +274,6 @@ if __name__ == "__main__":
     main()
 ```
 
-
-
 ### OUTPUT:
 
 <img width="458" height="686" alt="Screenshot 2025-10-06 092848" src="https://github.com/user-attachments/assets/23c7610a-3a28-4437-b281-da2ed9fa06b7" />
