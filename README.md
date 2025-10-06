@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>Exp No 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name: SATHYAA R</h3>
 <h3>Register Number: 212223100052</h3>
 
